@@ -389,7 +389,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/justinasrolando-cpu/seenpaid-mcp.git",
+        "url": "https://github.com/seenpaid/seenpaid-mcp.git",
         "sha": "370290dea59f490264687072363e0b3423308609"
       },
       "homepage": "https://seenpaid.com",
